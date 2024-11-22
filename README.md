@@ -1,0 +1,1 @@
+# cubrid_temp_manual
